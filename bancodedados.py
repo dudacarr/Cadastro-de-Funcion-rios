@@ -70,8 +70,4 @@ if __name__ == "__main__":
         else:
             print("Opção inválida. Tente novamente.")
 
-git init
-git add bancodedados.py
-git commit -m "Cadastro e gerenciamento de funcionários com SQLite" 
-git remote add origin <https://github.com/dudacarr/Cadastro-de-Funcion-rios>
-git push -u origin main
+
